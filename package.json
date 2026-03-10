@@ -8,5 +8,8 @@
     "dev": "node src/index.js"
   },
   "author": "ETML",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^10.0.3"
+  }
 }
