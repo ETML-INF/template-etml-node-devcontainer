@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "node src/index.js",
-    "lint": "eslint ."
+  "lint": "eslint .",
+  "lint:fix": "eslint . --fix",
+  "format": "prettier . --write"
   },
   "author": "ETML",
   "license": "ISC",
