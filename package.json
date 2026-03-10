@@ -1,0 +1,12 @@
+{
+  "name": "etml-node-project",
+  "version": "1.0.0",
+  "description": "Template Node ETML",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "author": "ETML",
+  "license": "ISC"
+}
